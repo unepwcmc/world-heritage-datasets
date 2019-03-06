@@ -1,4 +1,4 @@
-lock '3.4.0'
+lock '3.11.0'
 
 set :application, 'world-heritage-datasets'
 set :repo_url, 'git@github.com:unepwcmc/world-heritage-datasets.git'
